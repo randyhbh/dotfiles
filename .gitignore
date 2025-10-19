@@ -81,3 +81,21 @@ fabric.properties
 .idea/
 
 .DS_Store
+
+.claude/debug/
+
+.claude/file-history/
+
+.claude/settings.json
+
+.claude/shell-snapshots/
+
+.claude/statsig/
+
+.claude/todos/
+
+.claude/history.jsonl
+
+.claude/projects/
+
+.claude/plugins/
