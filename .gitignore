@@ -99,3 +99,7 @@ fabric.properties
 .claude/projects/
 
 .claude/plugins/
+
+.claude/ide/
+
+.claude/local/
